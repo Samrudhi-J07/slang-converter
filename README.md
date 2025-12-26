@@ -11,10 +11,12 @@ A Flask-based web application that converts slang words into their meanings.
 ## 🖼️ Application Screenshots
 
 ### Slang Conversion Example
-![Slang Converter Screenshot](static/slangconverter1.png)
+![Slang Converter Screenshot](./slangconverter1.png)
+
 
 ### Another Example
-![Slang Converter Screenshot](static/slangconverter2.png)
+![Slang Converter Screenshot](./slangconverter2.png)
+
 
 ## 🛠️ Technologies Used
 - Python
